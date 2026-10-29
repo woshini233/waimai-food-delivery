@@ -1,4 +1,5 @@
 # 外卖点餐与配送系统需求整理
+仓库地址：https://github.com/woshini233/waimai-food-delivery
 
 版本：最终版　日期：2026-10-29
 
